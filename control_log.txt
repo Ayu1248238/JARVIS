@@ -1,0 +1,166 @@
+2025-10-29 21:55:47.282962: Controller auto-activated.
+2025-10-29 21:55:48.220772: Typed text: 24 civilizations
+2025-10-29 21:55:50.210856: Controller auto-deactivated.
+2025-10-29 22:04:04.750771: Controller auto-activated.
+2025-10-29 22:04:22.671457: Typed text: The Harappan Civilization, also known as the Indus Valley Civilization, was a Bronze Age civilization that flourished in the Indus River Valley of South Asia, in what is now Pakistan and northwest India. It was one of the earliest urban societies in the world, existing from around 3300 BCE to 1700 BCE.
+2025-10-29 22:04:24.671187: Controller auto-deactivated.
+2025-10-29 22:07:06.011303: Controller auto-activated.
+2025-10-29 22:07:21.454162: Typed text: The Harappan civilization, also known as the Indus Valley Civilization, was located in the Indus River valley. Its two large cities, Harappa and Mohenjo-daro, were located in present-day Pakistan and India. The early Harappan cultures were populated from Neolithic cultures.
+2025-10-29 22:07:23.458044: Controller auto-deactivated.
+2025-10-29 22:13:12.539788: Controller auto-activated.
+2025-10-29 22:13:28.888852: Controller auto-activated.
+2025-10-29 22:13:28.915738: Typed text: Civilizations are complex societies characterized by urban development, social stratification, a system of government, specialized labor, and cultural advancements such as writing, art, and architecture. Examples include ancient Mesopotamia, Egypt, the Indus Valley, and China.
+2025-10-29 22:13:30.925989: Controller auto-deactivated.
+2025-10-29 22:13:58.630112: Typed text: The Harappan Civilization, also known as the Indus Valley Civilization, was a Bronze Age society that flourished in the Indus River Valley (present-day Pakistan and northwest India) from around 3300 to 1700 BCE. It was one of the earliest urban civilizations in the world, characterized by its well-planned cities, advanced drainage systems, and standardized weights and measures. The major cities included Harappa and Mohenjo-daro. The civilization declined around 1800 BCE, possibly due to climate change or invasions.
+2025-10-29 22:14:00.630688: Controller auto-deactivated.
+2025-10-30 08:48:52.231533: Controller auto-activated.
+2025-10-30 08:49:12.227595: Controller auto-activated.
+2025-10-30 08:49:16.085681: Typed text: The Harappan Civilization, also known as the Indus Valley Civilization, was a Bronze Age society that flourished in the Indus River Valley from around 3300 to 1700 BCE. It was one of the earliest urban civilizations in the world, known for its advanced planning, sanitation systems, and thriving trade networks. Major cities included Harappa and Mohenjo-daro.
+2025-10-30 08:49:18.088460: Controller auto-deactivated.
+2025-10-30 08:49:26.263219: Typed text: The Harappan Civilization, also known as the Indus Valley Civilization, was an early Bronze Age civilization located in the Indus River valley. Key cities included Harappa and Mohenjo-daro. It flourished from approximately 3300 to 1700 BCE.
+2025-10-30 08:49:28.275287: Controller auto-deactivated.
+2025-10-31 19:55:37.344159: Controller auto-activated.
+2025-10-31 19:55:38.146221: Typed text: Saiyaara song
+2025-10-31 19:55:40.158345: Controller auto-deactivated.
+2025-10-31 19:55:44.048416: Controller auto-activated.
+2025-10-31 19:55:44.246282: Pressed key: enter
+2025-10-31 19:55:46.251950: Controller auto-deactivated.
+2025-11-11 16:47:53.706149: Controller auto-activated.
+2025-11-11 16:47:54.421039: Controller auto-activated.
+2025-11-11 16:47:57.634955: Typed text: information about China Dominance from SSB point of view
+2025-11-11 16:47:59.641435: Controller auto-deactivated.
+2025-11-11 16:48:05.270725: Typed text: China is showing dominance in electric vehicles and battery production. They have access to key supply chains. Also, China is focusing on information dominance and modernizing their strategic capabilities.
+
+2025-11-11 16:48:07.275169: Controller auto-deactivated.
+2025-11-11 16:49:14.985926: Controller auto-activated.
+2025-11-11 16:49:55.931605: Typed text: China's dominance is a complex issue with significant implications from a Services Selection Board (SSB) perspective. China's economic and military growth presents both opportunities and challenges. Its growing economic influence impacts global trade and investment, potentially affecting India's economic interests and strategic partnerships. Militarily, China's modernization and assertive posture in the region raise concerns about regional stability and border security. SSB candidates should demonstrate an understanding of these factors, including China's strategic goals, its relationship with other countries, and its impact on India's security environment. A balanced and informed perspective is crucial.
+2025-11-11 16:49:57.937000: Controller auto-deactivated.
+2025-11-11 16:50:54.914590: Controller auto-activated.
+2025-11-11 16:51:09.541328: Typed text: China's dominance in the global economy is significant. Reasons include its large population providing a vast labor force, government support for key industries, and a focus on exports. Additionally, China has invested heavily in infrastructure and technology.
+2025-11-11 16:51:11.541803: Controller auto-deactivated.
+2025-11-11 17:02:35.316292: Controller auto-activated.
+2025-11-11 17:02:35.366366: Controller auto-activated.
+2025-11-11 17:02:40.178780: Typed text: Differences, Powers, Data, Superpowers, Economy, and Comparison between India and China:
+2025-11-11 17:02:42.155839: Controller auto-deactivated.
+2025-11-11 17:02:48.646326: Controller auto-activated.
+2025-11-11 17:03:02.778873: Controller auto-activated.
+2025-11-11 17:03:12.198872: Typed text: India and China: Differences
+
+*   **Political Systems:** India is a democratic republic, while China is a communist state.
+*   **Economy:** China has a larger and more developed economy than India.
+*   **Military Power:** China's military is larger and more technologically advanced than India's.
+*   **Superpower Status:** China is considered a rising superpower, while India is an emerging power.
+*   **Data and Technology:** Both countries have growing technology sectors, but China has made more significant investments in data infrastructure and AI.
+2025-11-11 17:03:12.462741: Controller auto-activated.
+2025-11-11 17:03:13.564681: Controller auto-activated.
+2025-11-11 17:03:14.202820: Controller auto-deactivated.
+2025-11-11 17:03:44.680003: Typed text: India vs China Comparison:
+
+I. Differences:
+   A. Political Systems
+   B. Cultural Nuances
+   C. Demographic Variations
+
+II. Powers:
+   A. Military Strength
+   B. Technological Advancement
+   C. Soft Power Influence
+
+III. Data:
+   A. Population Statistics
+   B. Economic Indicators
+   C. Social Development Indices
+
+IV. Superpowers:
+   A. Global Influence
+   B. Economic Clout
+   C. Military Projection
+
+V. Economy:
+   A. GDP Comparison
+   B. Trade Dynamics
+   C. Investment Flows
+
+VI. Progress:
+   A. Infrastructure Development
+   B. Social Progress
+   C. Technological Innovation
+
+VII. Comparisons:
+   A. Strengths and Weaknesses
+   B. Opportunities and Threats
+   C. Future Outlook
+2025-11-11 17:03:44.911604: Typed text: India vs. China: A Comparison
+
+*   Air Pollution: Both countries face significant air pollution challenges, but their governance approaches differ.
+*   Defense: China has a rapidly growing military, and its military spending is a subject of comparison. Naval aviation is also an area of comparison.
+*   Economy: China has emerged as a manufacturing superpower and its economic growth is significant.
+*   Manufacturing: China is the world's sole manufacturing superpower.
+*   Superpower Status: China is considered an emerging economic superpower.
+2025-11-11 17:03:46.674979: Controller auto-deactivated.
+2025-11-11 17:03:46.910779: Controller auto-deactivated.
+2025-11-11 17:04:18.610654: Typed text: India and China: Differences, Powers, Data, Superpowers, Economy, and Comparison
+
+* Differences:
+    * Political Systems: India is a democracy, while China is a communist state.
+    * Border Dispute: They have a long-standing border dispute.
+    * Cultural Differences: Different languages, customs, and traditions.
+
+* Powers:
+    * India: Growing military power, nuclear weapons.
+    * China: Strong military, large economy, technological advancements.
+
+* Data:
+    * Population: India is approaching China in population size.
+    * GDP: China has a significantly larger GDP than India.
+
+* Superpowers:
+    * China: Considered a potential superpower due to its economic and military strength.
+    * India: A rising power with potential to become a superpower in the future.
+
+* Economy:
+    * India: Growing service sector, IT industry.
+    * China: Manufacturing hub, export-oriented economy.
+
+* Comparison:
+    * Both are major global players with significant influence in their respective regions.
+    * China has a more developed infrastructure, while India has a more diverse economy.
+Action: press_key_tool
+Action Input: enter
+2025-11-11 17:04:20.611016: Controller auto-deactivated.
+2025-11-11 17:04:39.374616: Typed text: a. Demography: China has a larger population than India.
+b. Economy: China's economy is significantly larger than India's.
+c. Political System: China has a communist political system, while India has a democratic political system.
+d. GDP: China's GDP is higher than India's.
+e. GDP Growth: Both countries have experienced high GDP growth rates in recent decades.
+f. Military Strength: Both countries have large and powerful militaries.
+g. Nuclear Weapons: Both countries possess nuclear weapons.
+h. International Influence: Both countries are major players on the world stage.
+i. Infrastructure: China generally has better infrastructure than India.
+j. Poverty Rate: India has a higher poverty rate than China.
+k. Healthcare: Both countries are working to improve their healthcare systems.
+l. Education: Both countries are investing in education.
+m. Technology: Both countries have growing technology sectors.
+n. Manufacturing: China is a major manufacturing hub, while India is developing its manufacturing sector.
+o. Agriculture: Agriculture is important to both countries.
+p. Energy Consumption: China consumes more energy than India.
+q. Climate Change: Both countries are facing the challenges of climate change.
+r. Languages: China's official language is Mandarin, while India has many official languages including Hindi and English.
+s. Culture: Both countries have rich and ancient cultures.
+t. Natural Resources: Both countries have abundant natural resources.
+u. Space Program: Both countries have active space programs.
+v. Innovation: Both countries are focusing on innovation.
+w. Urbanization: Both countries are experiencing rapid urbanization.
+x. Foreign Investment: China attracts more foreign investment than India.
+y. Trade: Both countries are major trading partners.
+z. Superpowers: Both countries are considered potential superpowers.
+2025-11-11 17:04:39.835760: Controller auto-activated.
+2025-11-11 17:04:41.372633: Controller auto-deactivated.
+2025-11-11 17:04:45.781860: Typed text: Differences, powers, data, super powers, economy, and comparison between India and China in points in english
+2025-11-11 17:04:47.795632: Controller auto-deactivated.
+2025-11-13 07:03:09.305306: Controller auto-activated.
+2025-11-13 07:03:15.503038: Typed text: Arre bhai, chill maar! Is desh ka wahi hoga jo hamesha se hota aaya hai... drama, dhamaal, aur thoda sa jhagda!
+2025-11-13 07:03:17.494188: Controller auto-deactivated.
+2025-11-16 16:31:25.649098: Controller auto-activated.
+2025-11-16 16:31:26.197341: Typed text: about NASA
+2025-11-16 16:31:28.196233: Controller auto-deactivated.
